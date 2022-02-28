@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+    background-color: black;
+    color: red;
+    width: fit-content;
+    margin: 40px  auto;
+    padding: 10px 20px;
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+td {
+    width: 60px;
+    height: 60px;
+}
